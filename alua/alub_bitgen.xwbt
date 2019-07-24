@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=E:\alua\alub.ncd
+OUTFILE=E:\alua\alub.bit
+FAMILY=Spartan3A and Spartan3AN
+PART=xc3s50a-5tq144
+WORKINGDIR=E:\alua
+LICENSE=WebPack
+USER_INFO=211649376_0_0_019

@@ -1,0 +1,22 @@
+//! **************************************************************************
+// Written by: Map P.20131013 on Thu Apr 25 21:27:10 2019
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "led<0>" LOCATE = SITE "P46" LEVEL 1;
+COMP "led<1>" LOCATE = SITE "P47" LEVEL 1;
+COMP "led<2>" LOCATE = SITE "P48" LEVEL 1;
+COMP "led<3>" LOCATE = SITE "P49" LEVEL 1;
+COMP "ina<0>" LOCATE = SITE "P70" LEVEL 1;
+COMP "ina<1>" LOCATE = SITE "P69" LEVEL 1;
+COMP "ina<2>" LOCATE = SITE "P68" LEVEL 1;
+COMP "ina<3>" LOCATE = SITE "P64" LEVEL 1;
+COMP "inb<0>" LOCATE = SITE "P63" LEVEL 1;
+COMP "inb<1>" LOCATE = SITE "P60" LEVEL 1;
+COMP "inb<2>" LOCATE = SITE "P59" LEVEL 1;
+COMP "inb<3>" LOCATE = SITE "P58" LEVEL 1;
+COMP "sel<0>" LOCATE = SITE "P141" LEVEL 1;
+COMP "sel<1>" LOCATE = SITE "P143" LEVEL 1;
+COMP "sel<2>" LOCATE = SITE "P138" LEVEL 1;
+SCHEMATIC END;
+

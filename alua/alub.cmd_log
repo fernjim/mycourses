@@ -1,0 +1,66 @@
+xst -intstyle ise -ifn "E:/alua/alub.xst" -ofn "E:/alua/alub.syr" 
+xst -intstyle ise -ifn "E:/alua/alub.xst" -ofn "E:/alua/alub.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfalub.ucf -p xc3s50a-tq144-5 alub.ngc alub.ngd  
+xst -intstyle ise -ifn "E:/alua/alub.xst" -ofn "E:/alua/alub.syr" 
+xst -intstyle ise -ifn "E:/alua/alub.xst" -ofn "E:/alua/alub.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfalub.ucf -p xc3s50a-tq144-5 alub.ngc alub.ngd  
+xst -intstyle ise -ifn "E:/alua/alub.xst" -ofn "E:/alua/alub.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfalub.ucf -p xc3s50a-tq144-5 alub.ngc alub.ngd  
+xst -intstyle ise -ifn "E:/alua/alub.xst" -ofn "E:/alua/alub.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfalub.ucf -p xc3s50a-tq144-5 alub.ngc alub.ngd  
+xst -intstyle ise -ifn "E:/alua/alub.xst" -ofn "E:/alua/alub.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfalub.ucf -p xc3s50a-tq144-5 alub.ngc alub.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o alub_map.ncd alub.ngd alub.pcf 
+par -w -intstyle ise -ol high -t 1 alub_map.ncd alub.ncd alub.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml alub.twx alub.ncd -o alub.twr alub.pcf -ucf ucfalub.ucf 
+bitgen -intstyle ise -f alub.ut alub.ncd 
+xst -intstyle ise -ifn "E:/alua/alub.xst" -ofn "E:/alua/alub.syr" 
+xst -intstyle ise -ifn "E:/alua/alub.xst" -ofn "E:/alua/alub.syr" 
+xst -intstyle ise -ifn "E:/alua/alub.xst" -ofn "E:/alua/alub.syr" 
+xst -intstyle ise -ifn "E:/alua/alub.xst" -ofn "E:/alua/alub.syr" 
+xst -intstyle ise -ifn "E:/alua/alub.xst" -ofn "E:/alua/alub.syr" 
+xst -intstyle ise -ifn "E:/alua/alub.xst" -ofn "E:/alua/alub.syr" 
+xst -intstyle ise -ifn "E:/alua/alub.xst" -ofn "E:/alua/alub.syr" 
+xst -intstyle ise -ifn "E:/alua/alub.xst" -ofn "E:/alua/alub.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfalub.ucf -p xc3s50a-tq144-5 alub.ngc alub.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o alub_map.ncd alub.ngd alub.pcf 
+par -w -intstyle ise -ol high -t 1 alub_map.ncd alub.ncd alub.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml alub.twx alub.ncd -o alub.twr alub.pcf -ucf ucfalub.ucf 
+bitgen -intstyle ise -f alub.ut alub.ncd 
+xst -intstyle ise -ifn "E:/alua/alub.xst" -ofn "E:/alua/alub.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfalub.ucf -p xc3s50a-tq144-5 alub.ngc alub.ngd  
+xst -intstyle ise -ifn "E:/alua/alub.xst" -ofn "E:/alua/alub.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfalub.ucf -p xc3s50a-tq144-5 alub.ngc alub.ngd  
+xst -intstyle ise -ifn "E:/alua/alub.xst" -ofn "E:/alua/alub.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfalub.ucf -p xc3s50a-tq144-5 alub.ngc alub.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o alub_map.ncd alub.ngd alub.pcf 
+par -w -intstyle ise -ol high -t 1 alub_map.ncd alub.ncd alub.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml alub.twx alub.ncd -o alub.twr alub.pcf -ucf ucfalub.ucf 
+xst -intstyle ise -ifn "E:/alua/alub.xst" -ofn "E:/alua/alub.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfalub.ucf -p xc3s50a-tq144-5 alub.ngc alub.ngd  
+xst -intstyle ise -ifn "E:/alua/alub.xst" -ofn "E:/alua/alub.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfalub.ucf -p xc3s50a-tq144-5 alub.ngc alub.ngd  
+xst -intstyle ise -ifn "E:/alua/alub.xst" -ofn "E:/alua/alub.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfalub.ucf -p xc3s50a-tq144-5 alub.ngc alub.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o alub_map.ncd alub.ngd alub.pcf 
+par -w -intstyle ise -ol high -t 1 alub_map.ncd alub.ncd alub.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml alub.twx alub.ncd -o alub.twr alub.pcf -ucf ucfalub.ucf 
+bitgen -intstyle ise -f alub.ut alub.ncd 
+xst -intstyle ise -ifn "E:/alua/alub.xst" -ofn "E:/alua/alub.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfalub.ucf -p xc3s50a-tq144-5 alub.ngc alub.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o alub_map.ncd alub.ngd alub.pcf 
+par -w -intstyle ise -ol high -t 1 alub_map.ncd alub.ncd alub.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml alub.twx alub.ncd -o alub.twr alub.pcf -ucf ucfalub.ucf 
+bitgen -intstyle ise -f alub.ut alub.ncd 
+xst -intstyle ise -ifn "E:/alua/alub.xst" -ofn "E:/alua/alub.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfalub.ucf -p xc3s50a-tq144-5 alub.ngc alub.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o alub_map.ncd alub.ngd alub.pcf 
+par -w -intstyle ise -ol high -t 1 alub_map.ncd alub.ncd alub.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml alub.twx alub.ncd -o alub.twr alub.pcf -ucf ucfalub.ucf 
+bitgen -intstyle ise -f alub.ut alub.ncd 
+xst -intstyle ise -ifn "E:/alua/alub.xst" -ofn "E:/alua/alub.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfalub.ucf -p xc3s50a-tq144-5 alub.ngc alub.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o alub_map.ncd alub.ngd alub.pcf 
+par -w -intstyle ise -ol high -t 1 alub_map.ncd alub.ncd alub.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml alub.twx alub.ncd -o alub.twr alub.pcf -ucf ucfalub.ucf 
+bitgen -intstyle ise -f alub.ut alub.ncd 

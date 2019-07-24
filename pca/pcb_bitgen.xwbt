@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=E:\pca\pcb.ncd
+OUTFILE=E:\pca\pcb.bit
+FAMILY=Spartan3A and Spartan3AN
+PART=xc3s50a-5tq144
+WORKINGDIR=E:\pca
+LICENSE=WebPack
+USER_INFO=211649376_0_0_019

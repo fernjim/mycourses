@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "E:/rega/pcb.xst" -ofn "E:/rega/pcb.syr" 

@@ -1,0 +1,209 @@
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfregb.ucf -p xc3s50a-tq144-5 regb.ngc regb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o regb_map.ncd regb.ngd regb.pcf 
+par -w -intstyle ise -ol high -t 1 regb_map.ncd regb.ncd regb.pcf 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfregb.ucf -p xc3s50a-tq144-5 regb.ngc regb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o regb_map.ncd regb.ngd regb.pcf 
+par -w -intstyle ise -ol high -t 1 regb_map.ncd regb.ncd regb.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml regb.twx regb.ncd -o regb.twr regb.pcf -ucf ucfregb.ucf 
+bitgen -intstyle ise -f regb.ut regb.ncd 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfregb.ucf -p xc3s50a-tq144-5 regb.ngc regb.ngd  
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfregb.ucf -p xc3s50a-tq144-5 regb.ngc regb.ngd  
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfregb.ucf -p xc3s50a-tq144-5 regb.ngc regb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o regb_map.ncd regb.ngd regb.pcf 
+par -w -intstyle ise -ol high -t 1 regb_map.ncd regb.ncd regb.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml regb.twx regb.ncd -o regb.twr regb.pcf -ucf ucfregb.ucf 
+bitgen -intstyle ise -f regb.ut regb.ncd 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfregb.ucf -p xc3s50a-tq144-5 regb.ngc regb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o regb_map.ncd regb.ngd regb.pcf 
+par -w -intstyle ise -ol high -t 1 regb_map.ncd regb.ncd regb.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml regb.twx regb.ncd -o regb.twr regb.pcf -ucf ucfregb.ucf 
+bitgen -intstyle ise -f regb.ut regb.ncd 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfregb.ucf -p xc3s50a-tq144-5 regb.ngc regb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o regb_map.ncd regb.ngd regb.pcf 
+par -w -intstyle ise -ol high -t 1 regb_map.ncd regb.ncd regb.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml regb.twx regb.ncd -o regb.twr regb.pcf -ucf ucfregb.ucf 
+bitgen -intstyle ise -f regb.ut regb.ncd 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfregb.ucf -p xc3s50a-tq144-5 regb.ngc regb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o regb_map.ncd regb.ngd regb.pcf 
+par -w -intstyle ise -ol high -t 1 regb_map.ncd regb.ncd regb.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml regb.twx regb.ncd -o regb.twr regb.pcf -ucf ucfregb.ucf 
+bitgen -intstyle ise -f regb.ut regb.ncd 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfregb.ucf -p xc3s50a-tq144-5 regb.ngc regb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o regb_map.ncd regb.ngd regb.pcf 
+par -w -intstyle ise -ol high -t 1 regb_map.ncd regb.ncd regb.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml regb.twx regb.ncd -o regb.twr regb.pcf -ucf ucfregb.ucf 
+bitgen -intstyle ise -f regb.ut regb.ncd 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfregb.ucf -p xc3s50a-tq144-5 regb.ngc regb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o regb_map.ncd regb.ngd regb.pcf 
+par -w -intstyle ise -ol high -t 1 regb_map.ncd regb.ncd regb.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml regb.twx regb.ncd -o regb.twr regb.pcf -ucf ucfregb.ucf 
+bitgen -intstyle ise -f regb.ut regb.ncd 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfregb.ucf -p xc3s50a-tq144-5 regb.ngc regb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o regb_map.ncd regb.ngd regb.pcf 
+par -w -intstyle ise -ol high -t 1 regb_map.ncd regb.ncd regb.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml regb.twx regb.ncd -o regb.twr regb.pcf -ucf ucfregb.ucf 
+bitgen -intstyle ise -f regb.ut regb.ncd 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfregb.ucf -p xc3s50a-tq144-5 regb.ngc regb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o regb_map.ncd regb.ngd regb.pcf 
+par -w -intstyle ise -ol high -t 1 regb_map.ncd regb.ncd regb.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml regb.twx regb.ncd -o regb.twr regb.pcf -ucf ucfregb.ucf 
+bitgen -intstyle ise -f regb.ut regb.ncd 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfregb.ucf -p xc3s50a-tq144-5 regb.ngc regb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o regb_map.ncd regb.ngd regb.pcf 
+par -w -intstyle ise -ol high -t 1 regb_map.ncd regb.ncd regb.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml regb.twx regb.ncd -o regb.twr regb.pcf -ucf ucfregb.ucf 
+bitgen -intstyle ise -f regb.ut regb.ncd 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfregb.ucf -p xc3s50a-tq144-5 regb.ngc regb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o regb_map.ncd regb.ngd regb.pcf 
+par -w -intstyle ise -ol high -t 1 regb_map.ncd regb.ncd regb.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml regb.twx regb.ncd -o regb.twr regb.pcf -ucf ucfregb.ucf 
+bitgen -intstyle ise -f regb.ut regb.ncd 
+xst -intstyle ise -ifn "E:/rega/regb.xst" -ofn "E:/rega/regb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfregb.ucf -p xc3s50a-tq144-5 regb.ngc regb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o regb_map.ncd regb.ngd regb.pcf 
+par -w -intstyle ise -ol high -t 1 regb_map.ncd regb.ncd regb.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml regb.twx regb.ncd -o regb.twr regb.pcf -ucf ucfregb.ucf 
+bitgen -intstyle ise -f regb.ut regb.ncd 

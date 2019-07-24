@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=E:\rama\ramb.ncd
+OUTFILE=E:\rama\ramb.bit
+FAMILY=Spartan3A and Spartan3AN
+PART=xc3s50a-5tq144
+WORKINGDIR=E:\rama
+LICENSE=WebPack
+USER_INFO=211649376_0_0_019

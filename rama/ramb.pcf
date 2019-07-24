@@ -1,0 +1,21 @@
+//! **************************************************************************
+// Written by: Map P.20131013 on Sun Jun 02 12:19:01 2019
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "addr<2>" LOCATE = SITE "P59" LEVEL 1;
+COMP "memwrite" LOCATE = SITE "P80" LEVEL 1;
+COMP "din<2>" LOCATE = SITE "P68" LEVEL 1;
+COMP "din<3>" LOCATE = SITE "P64" LEVEL 1;
+COMP "clk" LOCATE = SITE "P129" LEVEL 1;
+COMP "outled<0>" LOCATE = SITE "P46" LEVEL 1;
+COMP "outled<1>" LOCATE = SITE "P47" LEVEL 1;
+COMP "outled<2>" LOCATE = SITE "P48" LEVEL 1;
+COMP "outled<3>" LOCATE = SITE "P49" LEVEL 1;
+COMP "addr<0>" LOCATE = SITE "P63" LEVEL 1;
+COMP "din<0>" LOCATE = SITE "P70" LEVEL 1;
+COMP "addr<1>" LOCATE = SITE "P60" LEVEL 1;
+COMP "din<1>" LOCATE = SITE "P69" LEVEL 1;
+NET "clk_BUFGP/IBUFG" PERIOD = 83.3333333 ns HIGH 50%;
+SCHEMATIC END;
+

@@ -1,0 +1,6 @@
+V3 3
+FL E:/dispaa/dispbb.vhd 2019/06/02.20:37:10 P.20131013
+EN work/dispbb 1559522236 FL E:/dispaa/dispbb.vhd PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_BIT 1381692180
+AR work/dispbb/dispaa 1559522237 \
+      FL E:/dispaa/dispbb.vhd EN work/dispbb 1559522236

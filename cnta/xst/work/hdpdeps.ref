@@ -1,0 +1,6 @@
+V3 3
+FL E:/cnta/cntb.vhd 2019/05/10.13:08:40 P.20131013
+EN work/cntb 1557508143 FL E:/cnta/cntb.vhd PB ieee/std_logic_1164 1381692176 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/cntb/cnta 1557508144 \
+      FL E:/cnta/cntb.vhd EN work/cntb 1557508143

@@ -1,0 +1,193 @@
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfcntb.ucf -p xc3s50a-tq144-5 cntb.ngc cntb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o cntb_map.ncd cntb.ngd cntb.pcf 
+par -w -intstyle ise -ol high -t 1 cntb_map.ncd cntb.ncd cntb.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml cntb.twx cntb.ncd -o cntb.twr cntb.pcf -ucf ucfcntb.ucf 
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfcntb.ucf -p xc3s50a-tq144-5 cntb.ngc cntb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o cntb_map.ncd cntb.ngd cntb.pcf 
+par -w -intstyle ise -ol high -t 1 cntb_map.ncd cntb.ncd cntb.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml cntb.twx cntb.ncd -o cntb.twr cntb.pcf -ucf ucfcntb.ucf 
+bitgen -intstyle ise -f cntb.ut cntb.ncd 
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+netgen -intstyle ise -ar Structure -tm cntb -w -dir netgen/synthesis -ofmt vhdl -sim cntb.ngc cntb_synthesis.vhd 
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfcntb.ucf -p xc3s50a-tq144-5 cntb.ngc cntb.ngd  
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfcntb.ucf -p xc3s50a-tq144-5 cntb.ngc cntb.ngd  
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfcntb.ucf -p xc3s50a-tq144-5 cntb.ngc cntb.ngd  
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+netgen -intstyle ise -ar Structure -tm cntb -w -dir netgen/synthesis -ofmt vhdl -sim cntb.ngc cntb_synthesis.vhd 
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfcntb.ucf -p xc3s50a-tq144-5 cntb.ngc cntb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o cntb_map.ncd cntb.ngd cntb.pcf 
+par -w -intstyle ise -ol high -t 1 cntb_map.ncd cntb.ncd cntb.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml cntb.twx cntb.ncd -o cntb.twr cntb.pcf -ucf ucfcntb.ucf 
+bitgen -intstyle ise -f cntb.ut cntb.ncd 
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfcntb.ucf -p xc3s50a-tq144-5 cntb.ngc cntb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o cntb_map.ncd cntb.ngd cntb.pcf 
+par -w -intstyle ise -ol high -t 1 cntb_map.ncd cntb.ncd cntb.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml cntb.twx cntb.ncd -o cntb.twr cntb.pcf -ucf ucfcntb.ucf 
+bitgen -intstyle ise -f cntb.ut cntb.ncd 
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfcntb.ucf -p xc3s50a-tq144-5 cntb.ngc cntb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o cntb_map.ncd cntb.ngd cntb.pcf 
+par -w -intstyle ise -ol high -t 1 cntb_map.ncd cntb.ncd cntb.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml cntb.twx cntb.ncd -o cntb.twr cntb.pcf -ucf ucfcntb.ucf 
+bitgen -intstyle ise -f cntb.ut cntb.ncd 
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfcntb.ucf -p xc3s50a-tq144-5 cntb.ngc cntb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o cntb_map.ncd cntb.ngd cntb.pcf 
+par -w -intstyle ise -ol high -t 1 cntb_map.ncd cntb.ncd cntb.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml cntb.twx cntb.ncd -o cntb.twr cntb.pcf -ucf ucfcntb.ucf 
+bitgen -intstyle ise -f cntb.ut cntb.ncd 
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfcntb.ucf -p xc3s50a-tq144-5 cntb.ngc cntb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o cntb_map.ncd cntb.ngd cntb.pcf 
+par -w -intstyle ise -ol high -t 1 cntb_map.ncd cntb.ncd cntb.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml cntb.twx cntb.ncd -o cntb.twr cntb.pcf -ucf ucfcntb.ucf 
+bitgen -intstyle ise -f cntb.ut cntb.ncd 
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfcntb.ucf -p xc3s50a-tq144-5 cntb.ngc cntb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o cntb_map.ncd cntb.ngd cntb.pcf 
+par -w -intstyle ise -ol high -t 1 cntb_map.ncd cntb.ncd cntb.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml cntb.twx cntb.ncd -o cntb.twr cntb.pcf -ucf ucfcntb.ucf 
+bitgen -intstyle ise -f cntb.ut cntb.ncd 
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfcntb.ucf -p xc3s50a-tq144-5 cntb.ngc cntb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o cntb_map.ncd cntb.ngd cntb.pcf 
+par -w -intstyle ise -ol high -t 1 cntb_map.ncd cntb.ncd cntb.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml cntb.twx cntb.ncd -o cntb.twr cntb.pcf -ucf ucfcntb.ucf 
+bitgen -intstyle ise -f cntb.ut cntb.ncd 
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfcntb.ucf -p xc3s50a-tq144-5 cntb.ngc cntb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o cntb_map.ncd cntb.ngd cntb.pcf 
+par -w -intstyle ise -ol high -t 1 cntb_map.ncd cntb.ncd cntb.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml cntb.twx cntb.ncd -o cntb.twr cntb.pcf -ucf ucfcntb.ucf 
+bitgen -intstyle ise -f cntb.ut cntb.ncd 
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfcntb.ucf -p xc3s50a-tq144-5 cntb.ngc cntb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o cntb_map.ncd cntb.ngd cntb.pcf 
+par -w -intstyle ise -ol high -t 1 cntb_map.ncd cntb.ncd cntb.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml cntb.twx cntb.ncd -o cntb.twr cntb.pcf -ucf ucfcntb.ucf 
+bitgen -intstyle ise -f cntb.ut cntb.ncd 
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfcntb.ucf -p xc3s50a-tq144-5 cntb.ngc cntb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o cntb_map.ncd cntb.ngd cntb.pcf 
+par -w -intstyle ise -ol high -t 1 cntb_map.ncd cntb.ncd cntb.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml cntb.twx cntb.ncd -o cntb.twr cntb.pcf -ucf ucfcntb.ucf 
+bitgen -intstyle ise -f cntb.ut cntb.ncd 
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfcntb.ucf -p xc3s50a-tq144-5 cntb.ngc cntb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o cntb_map.ncd cntb.ngd cntb.pcf 
+par -w -intstyle ise -ol high -t 1 cntb_map.ncd cntb.ncd cntb.pcf 
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfcntb.ucf -p xc3s50a-tq144-5 cntb.ngc cntb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o cntb_map.ncd cntb.ngd cntb.pcf 
+par -w -intstyle ise -ol high -t 1 cntb_map.ncd cntb.ncd cntb.pcf 
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfcntb.ucf -p xc3s50a-tq144-5 cntb.ngc cntb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o cntb_map.ncd cntb.ngd cntb.pcf 
+par -w -intstyle ise -ol high -t 1 cntb_map.ncd cntb.ncd cntb.pcf 
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfcntb.ucf -p xc3s50a-tq144-5 cntb.ngc cntb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o cntb_map.ncd cntb.ngd cntb.pcf 
+par -w -intstyle ise -ol high -t 1 cntb_map.ncd cntb.ncd cntb.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml cntb.twx cntb.ncd -o cntb.twr cntb.pcf -ucf ucfcntb.ucf 
+bitgen -intstyle ise -f cntb.ut cntb.ncd 
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfcntb.ucf -p xc3s50a-tq144-5 cntb.ngc cntb.ngd  
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfcntb.ucf -p xc3s50a-tq144-5 cntb.ngc cntb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o cntb_map.ncd cntb.ngd cntb.pcf 
+par -w -intstyle ise -ol high -t 1 cntb_map.ncd cntb.ncd cntb.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml cntb.twx cntb.ncd -o cntb.twr cntb.pcf -ucf ucfcntb.ucf 
+bitgen -intstyle ise -f cntb.ut cntb.ncd 
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfcntb.ucf -p xc3s50a-tq144-5 cntb.ngc cntb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o cntb_map.ncd cntb.ngd cntb.pcf 
+par -w -intstyle ise -ol high -t 1 cntb_map.ncd cntb.ncd cntb.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml cntb.twx cntb.ncd -o cntb.twr cntb.pcf -ucf ucfcntb.ucf 
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfcntb.ucf -p xc3s50a-tq144-5 cntb.ngc cntb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o cntb_map.ncd cntb.ngd cntb.pcf 
+par -w -intstyle ise -ol high -t 1 cntb_map.ncd cntb.ncd cntb.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml cntb.twx cntb.ncd -o cntb.twr cntb.pcf -ucf ucfcntb.ucf 
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfcntb.ucf -p xc3s50a-tq144-5 cntb.ngc cntb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o cntb_map.ncd cntb.ngd cntb.pcf 
+par -w -intstyle ise -ol high -t 1 cntb_map.ncd cntb.ncd cntb.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml cntb.twx cntb.ncd -o cntb.twr cntb.pcf -ucf ucfcntb.ucf 
+bitgen -intstyle ise -f cntb.ut cntb.ncd 
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfcntb.ucf -p xc3s50a-tq144-5 cntb.ngc cntb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o cntb_map.ncd cntb.ngd cntb.pcf 
+par -w -intstyle ise -ol high -t 1 cntb_map.ncd cntb.ncd cntb.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml cntb.twx cntb.ncd -o cntb.twr cntb.pcf -ucf ucfcntb.ucf 
+bitgen -intstyle ise -f cntb.ut cntb.ncd 
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfcntb.ucf -p xc3s50a-tq144-5 cntb.ngc cntb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o cntb_map.ncd cntb.ngd cntb.pcf 
+par -w -intstyle ise -ol high -t 1 cntb_map.ncd cntb.ncd cntb.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml cntb.twx cntb.ncd -o cntb.twr cntb.pcf -ucf ucfcntb.ucf 
+bitgen -intstyle ise -f cntb.ut cntb.ncd 
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+netgen -intstyle ise -ar Structure -tm cntb -w -dir netgen/synthesis -ofmt vhdl -sim cntb.ngc cntb_synthesis.vhd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfcntb.ucf -p xc3s50a-tq144-5 cntb.ngc cntb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o cntb_map.ncd cntb.ngd cntb.pcf 
+par -w -intstyle ise -ol high -t 1 cntb_map.ncd cntb.ncd cntb.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml cntb.twx cntb.ncd -o cntb.twr cntb.pcf -ucf ucfcntb.ucf 
+bitgen -intstyle ise -f cntb.ut cntb.ncd 
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 
+netgen -intstyle ise -ar Structure -tm cntb -w -dir netgen/synthesis -ofmt vhdl -sim cntb.ngc cntb_synthesis.vhd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfcntb.ucf -p xc3s50a-tq144-5 cntb.ngc cntb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o cntb_map.ncd cntb.ngd cntb.pcf 
+par -w -intstyle ise -ol high -t 1 cntb_map.ncd cntb.ncd cntb.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml cntb.twx cntb.ncd -o cntb.twr cntb.pcf -ucf ucfcntb.ucf 
+bitgen -intstyle ise -f cntb.ut cntb.ncd 
+xst -intstyle ise -ifn "E:/cnta/cntb.xst" -ofn "E:/cnta/cntb.syr" 

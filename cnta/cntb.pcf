@@ -1,0 +1,17 @@
+//! **************************************************************************
+// Written by: Map P.20131013 on Fri Feb 22 20:53:40 2019
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "led<0>" LOCATE = SITE "P46" LEVEL 1;
+COMP "led<1>" LOCATE = SITE "P47" LEVEL 1;
+COMP "led<2>" LOCATE = SITE "P48" LEVEL 1;
+COMP "clk" LOCATE = SITE "P129" LEVEL 1;
+COMP "led<3>" LOCATE = SITE "P49" LEVEL 1;
+COMP "sw0" LOCATE = SITE "P80" LEVEL 1;
+COMP "reset" LOCATE = SITE "P79" LEVEL 1;
+TIMEGRP CLK = BEL "pulse" BEL "delay_0" BEL "delay_1" BEL "delay_2" BEL
+        "delay_3" BEL "delay_4" BEL "delay_5" BEL "clk_BUFGP/BUFG.GCLKMUX" BEL
+        "clk_BUFGP/BUFG";
+SCHEMATIC END;
+

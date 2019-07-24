@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=E:\ora\orb.ncd
+OUTFILE=E:\ora\orb.bit
+FAMILY=Spartan3A and Spartan3AN
+PART=xc3s50a-5tq144
+WORKINGDIR=E:\ora
+LICENSE=WebPack
+USER_INFO=211649376_0_0_019

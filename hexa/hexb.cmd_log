@@ -1,0 +1,142 @@
+xst -intstyle ise -ifn "E:/hexa/hexb.xst" -ofn "E:/hexa/hexb.syr" 
+xst -intstyle ise -ifn "E:/hexa/hexb.xst" -ofn "E:/hexa/hexb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfhexb.ucf -p xc3s50a-tq144-5 hexb.ngc hexb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o hexb_map.ncd hexb.ngd hexb.pcf 
+par -w -intstyle ise -ol high -t 1 hexb_map.ncd hexb.ncd hexb.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml hexb.twx hexb.ncd -o hexb.twr hexb.pcf -ucf ucfhexb.ucf 
+xst -intstyle ise -ifn "E:/hexa/hexb.xst" -ofn "E:/hexa/hexb.syr" 
+xst -intstyle ise -ifn "E:/hexa/hexb.xst" -ofn "E:/hexa/hexb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfhexb.ucf -p xc3s50a-tq144-5 hexb.ngc hexb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o hexb_map.ncd hexb.ngd hexb.pcf 
+par -w -intstyle ise -ol high -t 1 hexb_map.ncd hexb.ncd hexb.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml hexb.twx hexb.ncd -o hexb.twr hexb.pcf -ucf ucfhexb.ucf 
+bitgen -intstyle ise -f hexb.ut hexb.ncd 
+xst -intstyle ise -ifn "E:/hexa/hexb.xst" -ofn "E:/hexa/hexb.syr" 
+xst -intstyle ise -ifn "E:/hexa/hexb.xst" -ofn "E:/hexa/hexb.syr" 
+xst -intstyle ise -ifn "E:/hexa/hexb.xst" -ofn "E:/hexa/hexb.syr" 
+xst -intstyle ise -ifn "E:/hexa/hexb.xst" -ofn "E:/hexa/hexb.syr" 
+xst -intstyle ise -ifn "E:/hexa/hexb.xst" -ofn "E:/hexa/hexb.syr" 
+xst -intstyle ise -ifn "E:/hexa/hexb.xst" -ofn "E:/hexa/hexb.syr" 
+xst -intstyle ise -ifn "E:/hexa/hexb.xst" -ofn "E:/hexa/hexb.syr" 
+xst -intstyle ise -ifn "E:/hexa/hexb.xst" -ofn "E:/hexa/hexb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfhexb.ucf -p xc3s50a-tq144-5 hexb.ngc hexb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o hexb_map.ncd hexb.ngd hexb.pcf 
+par -w -intstyle ise -ol high -t 1 hexb_map.ncd hexb.ncd hexb.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml hexb.twx hexb.ncd -o hexb.twr hexb.pcf -ucf ucfhexb.ucf 
+bitgen -intstyle ise -f hexb.ut hexb.ncd 
+xst -intstyle ise -ifn "E:/hexa/hexb.xst" -ofn "E:/hexa/hexb.syr" 
+xst -intstyle ise -ifn "E:/hexa/hexb.xst" -ofn "E:/hexa/hexb.syr" 
+xst -intstyle ise -ifn "E:/hexa/hexb.xst" -ofn "E:/hexa/hexb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfhexb.ucf -p xc3s50a-tq144-5 hexb.ngc hexb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o hexb_map.ncd hexb.ngd hexb.pcf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfhexb.ucf -p xc3s50a-tq144-5 hexb.ngc hexb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o hexb_map.ncd hexb.ngd hexb.pcf 
+par -w -intstyle ise -ol high -t 1 hexb_map.ncd hexb.ncd hexb.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml hexb.twx hexb.ncd -o hexb.twr hexb.pcf -ucf ucfhexb.ucf 
+xst -intstyle ise -ifn "E:/hexa/hexb.xst" -ofn "E:/hexa/hexb.syr" 
+xst -intstyle ise -ifn "E:/hexa/hexb.xst" -ofn "E:/hexa/hexb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfhexb.ucf -p xc3s50a-tq144-5 hexb.ngc hexb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o hexb_map.ncd hexb.ngd hexb.pcf 
+par -w -intstyle ise -ol high -t 1 hexb_map.ncd hexb.ncd hexb.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml hexb.twx hexb.ncd -o hexb.twr hexb.pcf -ucf ucfhexb.ucf 
+bitgen -intstyle ise -f hexb.ut hexb.ncd 
+xst -intstyle ise -ifn "E:/hexa/hexb.xst" -ofn "E:/hexa/hexb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfhexb.ucf -p xc3s50a-tq144-5 hexb.ngc hexb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o hexb_map.ncd hexb.ngd hexb.pcf 
+par -w -intstyle ise -ol high -t 1 hexb_map.ncd hexb.ncd hexb.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml hexb.twx hexb.ncd -o hexb.twr hexb.pcf -ucf ucfhexb.ucf 
+bitgen -intstyle ise -f hexb.ut hexb.ncd 
+xst -intstyle ise -ifn "E:/hexa/hexb.xst" -ofn "E:/hexa/hexb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfhexb.ucf -p xc3s50a-tq144-5 hexb.ngc hexb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o hexb_map.ncd hexb.ngd hexb.pcf 
+par -w -intstyle ise -ol high -t 1 hexb_map.ncd hexb.ncd hexb.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml hexb.twx hexb.ncd -o hexb.twr hexb.pcf -ucf ucfhexb.ucf 
+bitgen -intstyle ise -f hexb.ut hexb.ncd 
+xst -intstyle ise -ifn "E:/hexa/hexb.xst" -ofn "E:/hexa/hexb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfhexb.ucf -p xc3s50a-tq144-5 hexb.ngc hexb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o hexb_map.ncd hexb.ngd hexb.pcf 
+par -w -intstyle ise -ol high -t 1 hexb_map.ncd hexb.ncd hexb.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml hexb.twx hexb.ncd -o hexb.twr hexb.pcf -ucf ucfhexb.ucf 
+bitgen -intstyle ise -f hexb.ut hexb.ncd 
+xst -intstyle ise -ifn "E:/hexa/hexb.xst" -ofn "E:/hexa/hexb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfhexb.ucf -p xc3s50a-tq144-5 hexb.ngc hexb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o hexb_map.ncd hexb.ngd hexb.pcf 
+par -w -intstyle ise -ol high -t 1 hexb_map.ncd hexb.ncd hexb.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml hexb.twx hexb.ncd -o hexb.twr hexb.pcf -ucf ucfhexb.ucf 
+bitgen -intstyle ise -f hexb.ut hexb.ncd 
+xst -intstyle ise -ifn "E:/hexa/hexb.xst" -ofn "E:/hexa/hexb.syr" 
+xst -intstyle ise -ifn "E:/hexa/hexb.xst" -ofn "E:/hexa/hexb.syr" 
+xst -intstyle ise -ifn "E:/hexa/hexb.xst" -ofn "E:/hexa/hexb.syr" 
+xst -intstyle ise -ifn "E:/hexa/hexb.xst" -ofn "E:/hexa/hexb.syr" 
+xst -intstyle ise -ifn "E:/hexa/hexb.xst" -ofn "E:/hexa/hexb.syr" 
+xst -intstyle ise -ifn "E:/hexa/hexb.xst" -ofn "E:/hexa/hexb.syr" 
+xst -intstyle ise -ifn "E:/hexa/hexb.xst" -ofn "E:/hexa/hexb.syr" 
+xst -intstyle ise -ifn "E:/hexa/hexb.xst" -ofn "E:/hexa/hexb.syr" 
+xst -intstyle ise -ifn "E:/hexa/hexb.xst" -ofn "E:/hexa/hexb.syr" 
+xst -intstyle ise -ifn "E:/hexa/hexb.xst" -ofn "E:/hexa/hexb.syr" 
+xst -intstyle ise -ifn "E:/hexa/hexb.xst" -ofn "E:/hexa/hexb.syr" 
+xst -intstyle ise -ifn "E:/hexa/hexb.xst" -ofn "E:/hexa/hexb.syr" 
+xst -intstyle ise -ifn "E:/hexa/hexb.xst" -ofn "E:/hexa/hexb.syr" 
+xst -intstyle ise -ifn "E:/hexa/hexb.xst" -ofn "E:/hexa/hexb.syr" 
+xst -intstyle ise -ifn "E:/hexa/hexb.xst" -ofn "E:/hexa/hexb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfhexb.ucf -p xc3s50a-tq144-5 hexb.ngc hexb.ngd  
+xst -intstyle ise -ifn "E:/hexa/hexb.xst" -ofn "E:/hexa/hexb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfhexb.ucf -p xc3s50a-tq144-5 hexb.ngc hexb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o hexb_map.ncd hexb.ngd hexb.pcf 
+par -w -intstyle ise -ol high -t 1 hexb_map.ncd hexb.ncd hexb.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml hexb.twx hexb.ncd -o hexb.twr hexb.pcf -ucf ucfhexb.ucf 
+bitgen -intstyle ise -f hexb.ut hexb.ncd 
+xst -intstyle ise -ifn "E:/hexa/hexb.xst" -ofn "E:/hexa/hexb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfhexb.ucf -p xc3s50a-tq144-5 hexb.ngc hexb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o hexb_map.ncd hexb.ngd hexb.pcf 
+par -w -intstyle ise -ol high -t 1 hexb_map.ncd hexb.ncd hexb.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml hexb.twx hexb.ncd -o hexb.twr hexb.pcf -ucf ucfhexb.ucf 
+bitgen -intstyle ise -f hexb.ut hexb.ncd 
+xst -intstyle ise -ifn "E:/hexa/hexb.xst" -ofn "E:/hexa/hexb.syr" 
+xst -intstyle ise -ifn "E:/hexa/hexb.xst" -ofn "E:/hexa/hexb.syr" 
+xst -intstyle ise -ifn "E:/hexa/hexb.xst" -ofn "E:/hexa/hexb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfhexb.ucf -p xc3s50a-tq144-5 hexb.ngc hexb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o hexb_map.ncd hexb.ngd hexb.pcf 
+par -w -intstyle ise -ol high -t 1 hexb_map.ncd hexb.ncd hexb.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml hexb.twx hexb.ncd -o hexb.twr hexb.pcf -ucf ucfhexb.ucf 
+bitgen -intstyle ise -f hexb.ut hexb.ncd 
+xst -intstyle ise -ifn "E:/hexa/hexb.xst" -ofn "E:/hexa/hexb.syr" 
+xst -intstyle ise -ifn "E:/hexa/hexb.xst" -ofn "E:/hexa/hexb.syr" 
+xst -intstyle ise -ifn "E:/hexa/hexb.xst" -ofn "E:/hexa/hexb.syr" 
+xst -intstyle ise -ifn "E:/hexa/hexb.xst" -ofn "E:/hexa/hexb.syr" 
+xst -intstyle ise -ifn "E:/hexa/hexb.xst" -ofn "E:/hexa/hexb.syr" 
+xst -intstyle ise -ifn "E:/hexa/hexb.xst" -ofn "E:/hexa/hexb.syr" 
+xst -intstyle ise -ifn "E:/hexa/hexb.xst" -ofn "E:/hexa/hexb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfhexb.ucf -p xc3s50a-tq144-5 hexb.ngc hexb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o hexb_map.ncd hexb.ngd hexb.pcf 
+par -w -intstyle ise -ol high -t 1 hexb_map.ncd hexb.ncd hexb.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml hexb.twx hexb.ncd -o hexb.twr hexb.pcf -ucf ucfhexb.ucf 
+bitgen -intstyle ise -f hexb.ut hexb.ncd 
+xst -intstyle ise -ifn "E:/hexa/hexb.xst" -ofn "E:/hexa/hexb.syr" 
+xst -intstyle ise -ifn "E:/hexa/hexb.xst" -ofn "E:/hexa/hexb.syr" 
+xst -intstyle ise -ifn "E:/hexa/hexb.xst" -ofn "E:/hexa/hexb.syr" 
+xst -intstyle ise -ifn "E:/hexa/hexb.xst" -ofn "E:/hexa/hexb.syr" 
+xst -intstyle ise -ifn "E:/hexa/hexb.xst" -ofn "E:/hexa/hexb.syr" 
+xst -intstyle ise -ifn "E:/hexa/hexb.xst" -ofn "E:/hexa/hexb.syr" 
+xst -intstyle ise -ifn "E:/hexa/hexb.xst" -ofn "E:/hexa/hexb.syr" 
+xst -intstyle ise -ifn "E:/hexa/hexb.xst" -ofn "E:/hexa/hexb.syr" 
+xst -intstyle ise -ifn "E:/hexa/hexb.xst" -ofn "E:/hexa/hexb.syr" 
+xst -intstyle ise -ifn "E:/hexa/hexb.xst" -ofn "E:/hexa/hexb.syr" 
+netgen -intstyle ise -ar Structure -tm hexb -w -dir netgen/synthesis -ofmt vhdl -sim hexb.ngc hexb_synthesis.vhd 
+xst -intstyle ise -ifn "E:/hexa/hexb.xst" -ofn "E:/hexa/hexb.syr" 
+xst -intstyle ise -ifn "E:/hexa/hexb.xst" -ofn "E:/hexa/hexb.syr" 
+xst -intstyle ise -ifn "E:/hexa/hexb.xst" -ofn "E:/hexa/hexb.syr" 
+xst -intstyle ise -ifn "E:/hexa/hexb.xst" -ofn "E:/hexa/hexb.syr" 
+xst -intstyle ise -ifn "E:/hexa/hexb.xst" -ofn "E:/hexa/hexb.syr" 
+xst -intstyle ise -ifn "E:/hexa/hexb.xst" -ofn "E:/hexa/hexb.syr" 
+xst -intstyle ise -ifn "E:/hexa/hexb.xst" -ofn "E:/hexa/hexb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfhexb.ucf -p xc3s50a-tq144-5 hexb.ngc hexb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o hexb_map.ncd hexb.ngd hexb.pcf 
+par -w -intstyle ise -ol high -t 1 hexb_map.ncd hexb.ncd hexb.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml hexb.twx hexb.ncd -o hexb.twr hexb.pcf -ucf ucfhexb.ucf 
+xst -intstyle ise -ifn "E:/hexa/hexb.xst" -ofn "E:/hexa/hexb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfhexb.ucf -p xc3s50a-tq144-5 hexb.ngc hexb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o hexb_map.ncd hexb.ngd hexb.pcf 
+par -w -intstyle ise -ol high -t 1 hexb_map.ncd hexb.ncd hexb.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml hexb.twx hexb.ncd -o hexb.twr hexb.pcf -ucf ucfhexb.ucf 
+bitgen -intstyle ise -f hexb.ut hexb.ncd 

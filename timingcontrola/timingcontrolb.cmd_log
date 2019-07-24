@@ -1,0 +1,171 @@
+xst -intstyle ise -ifn "E:/timingcontrola/timingcontrolb.xst" -ofn "E:/timingcontrola/timingcontrolb.syr" 
+xst -intstyle ise -ifn "E:/timingcontrola/timingcontrolb.xst" -ofn "E:/timingcontrola/timingcontrolb.syr" 
+xst -intstyle ise -ifn "E:/timingcontrola/timingcontrolb.xst" -ofn "E:/timingcontrola/timingcontrolb.syr" 
+xst -intstyle ise -ifn "E:/timingcontrola/timingcontrolb.xst" -ofn "E:/timingcontrola/timingcontrolb.syr" 
+xst -intstyle ise -ifn "E:/timingcontrola/timingcontrolb.xst" -ofn "E:/timingcontrola/timingcontrolb.syr" 
+xst -intstyle ise -ifn "E:/timingcontrola/timingcontrolb.xst" -ofn "E:/timingcontrola/timingcontrolb.syr" 
+xst -intstyle ise -ifn "E:/timingcontrola/timingcontrolb.xst" -ofn "E:/timingcontrola/timingcontrolb.syr" 
+xst -intstyle ise -ifn "E:/timingcontrola/timingcontrolb.xst" -ofn "E:/timingcontrola/timingcontrolb.syr" 
+xst -intstyle ise -ifn "E:/timingcontrola/timingcontrolb.xst" -ofn "E:/timingcontrola/timingcontrolb.syr" 
+xst -intstyle ise -ifn "E:/timingcontrola/timingcontrolb.xst" -ofn "E:/timingcontrola/timingcontrolb.syr" 
+xst -intstyle ise -ifn "E:/timingcontrola/timingcontrolb.xst" -ofn "E:/timingcontrola/timingcontrolb.syr" 
+xst -intstyle ise -ifn "E:/timingcontrola/timingcontrolb.xst" -ofn "E:/timingcontrola/timingcontrolb.syr" 
+xst -intstyle ise -ifn "E:/timingcontrola/timingcontrolb.xst" -ofn "E:/timingcontrola/timingcontrolb.syr" 
+xst -intstyle ise -ifn "E:/timingcontrola/timingcontrolb.xst" -ofn "E:/timingcontrola/timingcontrolb.syr" 
+xst -intstyle ise -ifn "E:/timingcontrola/timingcontrolb.xst" -ofn "E:/timingcontrola/timingcontrolb.syr" 
+xst -intstyle ise -ifn "E:/timingcontrola/timingcontrolb.xst" -ofn "E:/timingcontrola/timingcontrolb.syr" 
+xst -intstyle ise -ifn "E:/timingcontrola/timingcontrolb.xst" -ofn "E:/timingcontrola/timingcontrolb.syr" 
+xst -intstyle ise -ifn "E:/timingcontrola/timingcontrolb.xst" -ofn "E:/timingcontrola/timingcontrolb.syr" 
+xst -intstyle ise -ifn "E:/timingcontrola/timingcontrolb.xst" -ofn "E:/timingcontrola/timingcontrolb.syr" 
+xst -intstyle ise -ifn "E:/timingcontrola/timingcontrolb.xst" -ofn "E:/timingcontrola/timingcontrolb.syr" 
+xst -intstyle ise -ifn "E:/timingcontrola/timingcontrolb.xst" -ofn "E:/timingcontrola/timingcontrolb.syr" 
+xst -intstyle ise -ifn "E:/timingcontrola/timingcontrolb.xst" -ofn "E:/timingcontrola/timingcontrolb.syr" 
+xst -intstyle ise -ifn "E:/timingcontrola/timingcontrolb.xst" -ofn "E:/timingcontrola/timingcontrolb.syr" 
+xst -intstyle ise -ifn "E:/timingcontrola/timingcontrolb.xst" -ofn "E:/timingcontrola/timingcontrolb.syr" 
+xst -intstyle ise -ifn "E:/timingcontrola/timingcontrolb.xst" -ofn "E:/timingcontrola/timingcontrolb.syr" 
+xst -intstyle ise -ifn "E:/timingcontrola/timingcontrolb.xst" -ofn "E:/timingcontrola/timingcontrolb.syr" 
+xst -intstyle ise -ifn "E:/timingcontrola/timingcontrolb.xst" -ofn "E:/timingcontrola/timingcontrolb.syr" 
+xst -intstyle ise -ifn "E:/timingcontrola/timingcontrolb.xst" -ofn "E:/timingcontrola/timingcontrolb.syr" 
+xst -intstyle ise -ifn "E:/timingcontrola/timingcontrolb.xst" -ofn "E:/timingcontrola/timingcontrolb.syr" 
+xst -intstyle ise -ifn "E:/timingcontrola/timingcontrolb.xst" -ofn "E:/timingcontrola/timingcontrolb.syr" 
+xst -intstyle ise -ifn "E:/timingcontrola/timingcontrolb.xst" -ofn "E:/timingcontrola/timingcontrolb.syr" 
+xst -intstyle ise -ifn "E:/timingcontrola/timingcontrolb.xst" -ofn "E:/timingcontrola/timingcontrolb.syr" 
+xst -intstyle ise -ifn "E:/timingcontrola/timingcontrolb.xst" -ofn "E:/timingcontrola/timingcontrolb.syr" 
+xst -intstyle ise -ifn "E:/timingcontrola/timingcontrolb.xst" -ofn "E:/timingcontrola/timingcontrolb.syr" 
+xst -intstyle ise -ifn "E:/timingcontrola/timingcontrolb.xst" -ofn "E:/timingcontrola/timingcontrolb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucftimingcontrolb.ucf -p xc3s50a-tq144-5 timingcontrolb.ngc timingcontrolb.ngd  
+xst -intstyle ise -ifn "E:/timingcontrola/timingcontrolb.xst" -ofn "E:/timingcontrola/timingcontrolb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucftimingcontrolb.ucf -p xc3s50a-tq144-5 timingcontrolb.ngc timingcontrolb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o timingcontrolb_map.ncd timingcontrolb.ngd timingcontrolb.pcf 
+par -w -intstyle ise -ol high -t 1 timingcontrolb_map.ncd timingcontrolb.ncd timingcontrolb.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml timingcontrolb.twx timingcontrolb.ncd -o timingcontrolb.twr timingcontrolb.pcf -ucf ucftimingcontrolb.ucf 
+bitgen -intstyle ise -f timingcontrolb.ut timingcontrolb.ncd 
+xst -intstyle ise -ifn "E:/timingcontrola/timingcontrolb.xst" -ofn "E:/timingcontrola/timingcontrolb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucftimingcontrolb.ucf -p xc3s50a-tq144-5 timingcontrolb.ngc timingcontrolb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o timingcontrolb_map.ncd timingcontrolb.ngd timingcontrolb.pcf 
+par -w -intstyle ise -ol high -t 1 timingcontrolb_map.ncd timingcontrolb.ncd timingcontrolb.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml timingcontrolb.twx timingcontrolb.ncd -o timingcontrolb.twr timingcontrolb.pcf -ucf ucftimingcontrolb.ucf 
+bitgen -intstyle ise -f timingcontrolb.ut timingcontrolb.ncd 
+xst -intstyle ise -ifn "E:/timingcontrola/timingcontrolb.xst" -ofn "E:/timingcontrola/timingcontrolb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucftimingcontrolb.ucf -p xc3s50a-tq144-5 timingcontrolb.ngc timingcontrolb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o timingcontrolb_map.ncd timingcontrolb.ngd timingcontrolb.pcf 
+par -w -intstyle ise -ol high -t 1 timingcontrolb_map.ncd timingcontrolb.ncd timingcontrolb.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml timingcontrolb.twx timingcontrolb.ncd -o timingcontrolb.twr timingcontrolb.pcf -ucf ucftimingcontrolb.ucf 
+bitgen -intstyle ise -f timingcontrolb.ut timingcontrolb.ncd 
+xst -intstyle ise -ifn "E:/timingcontrola/timingcontrolb.xst" -ofn "E:/timingcontrola/timingcontrolb.syr" 
+xst -intstyle ise -ifn "E:/timingcontrola/timingcontrolb.xst" -ofn "E:/timingcontrola/timingcontrolb.syr" 
+xst -intstyle ise -ifn "E:/timingcontrola/timingcontrolb.xst" -ofn "E:/timingcontrola/timingcontrolb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucftimingcontrolb.ucf -p xc3s50a-tq144-5 timingcontrolb.ngc timingcontrolb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o timingcontrolb_map.ncd timingcontrolb.ngd timingcontrolb.pcf 
+par -w -intstyle ise -ol high -t 1 timingcontrolb_map.ncd timingcontrolb.ncd timingcontrolb.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml timingcontrolb.twx timingcontrolb.ncd -o timingcontrolb.twr timingcontrolb.pcf -ucf ucftimingcontrolb.ucf 
+bitgen -intstyle ise -f timingcontrolb.ut timingcontrolb.ncd 
+xst -intstyle ise -ifn "E:/timingcontrola/timingcontrolb.xst" -ofn "E:/timingcontrola/timingcontrolb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucftimingcontrolb.ucf -p xc3s50a-tq144-5 timingcontrolb.ngc timingcontrolb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o timingcontrolb_map.ncd timingcontrolb.ngd timingcontrolb.pcf 
+par -w -intstyle ise -ol high -t 1 timingcontrolb_map.ncd timingcontrolb.ncd timingcontrolb.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml timingcontrolb.twx timingcontrolb.ncd -o timingcontrolb.twr timingcontrolb.pcf -ucf ucftimingcontrolb.ucf 
+bitgen -intstyle ise -f timingcontrolb.ut timingcontrolb.ncd 
+xst -intstyle ise -ifn "E:/timingcontrola/timingcontrolb.xst" -ofn "E:/timingcontrola/timingcontrolb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucftimingcontrolb.ucf -p xc3s50a-tq144-5 timingcontrolb.ngc timingcontrolb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o timingcontrolb_map.ncd timingcontrolb.ngd timingcontrolb.pcf 
+par -w -intstyle ise -ol high -t 1 timingcontrolb_map.ncd timingcontrolb.ncd timingcontrolb.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml timingcontrolb.twx timingcontrolb.ncd -o timingcontrolb.twr timingcontrolb.pcf -ucf ucftimingcontrolb.ucf 
+bitgen -intstyle ise -f timingcontrolb.ut timingcontrolb.ncd 
+xst -intstyle ise -ifn "E:/timingcontrola/timingcontrolb.xst" -ofn "E:/timingcontrola/timingcontrolb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucftimingcontrolb.ucf -p xc3s50a-tq144-5 timingcontrolb.ngc timingcontrolb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o timingcontrolb_map.ncd timingcontrolb.ngd timingcontrolb.pcf 
+par -w -intstyle ise -ol high -t 1 timingcontrolb_map.ncd timingcontrolb.ncd timingcontrolb.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml timingcontrolb.twx timingcontrolb.ncd -o timingcontrolb.twr timingcontrolb.pcf -ucf ucftimingcontrolb.ucf 
+bitgen -intstyle ise -f timingcontrolb.ut timingcontrolb.ncd 
+xst -intstyle ise -ifn "E:/timingcontrola/timingcontrolb.xst" -ofn "E:/timingcontrola/timingcontrolb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucftimingcontrolb.ucf -p xc3s50a-tq144-5 timingcontrolb.ngc timingcontrolb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o timingcontrolb_map.ncd timingcontrolb.ngd timingcontrolb.pcf 
+par -w -intstyle ise -ol high -t 1 timingcontrolb_map.ncd timingcontrolb.ncd timingcontrolb.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml timingcontrolb.twx timingcontrolb.ncd -o timingcontrolb.twr timingcontrolb.pcf -ucf ucftimingcontrolb.ucf 
+bitgen -intstyle ise -f timingcontrolb.ut timingcontrolb.ncd 
+xst -intstyle ise -ifn "E:/timingcontrola/timingcontrolb.xst" -ofn "E:/timingcontrola/timingcontrolb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucftimingcontrolb.ucf -p xc3s50a-tq144-5 timingcontrolb.ngc timingcontrolb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o timingcontrolb_map.ncd timingcontrolb.ngd timingcontrolb.pcf 
+par -w -intstyle ise -ol high -t 1 timingcontrolb_map.ncd timingcontrolb.ncd timingcontrolb.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml timingcontrolb.twx timingcontrolb.ncd -o timingcontrolb.twr timingcontrolb.pcf -ucf ucftimingcontrolb.ucf 
+bitgen -intstyle ise -f timingcontrolb.ut timingcontrolb.ncd 
+xst -intstyle ise -ifn "E:/timingcontrola/timingcontrolb.xst" -ofn "E:/timingcontrola/timingcontrolb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucftimingcontrolb.ucf -p xc3s50a-tq144-5 timingcontrolb.ngc timingcontrolb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o timingcontrolb_map.ncd timingcontrolb.ngd timingcontrolb.pcf 
+par -w -intstyle ise -ol high -t 1 timingcontrolb_map.ncd timingcontrolb.ncd timingcontrolb.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml timingcontrolb.twx timingcontrolb.ncd -o timingcontrolb.twr timingcontrolb.pcf -ucf ucftimingcontrolb.ucf 
+bitgen -intstyle ise -f timingcontrolb.ut timingcontrolb.ncd 
+xst -intstyle ise -ifn "E:/timingcontrola/timingcontrolb.xst" -ofn "E:/timingcontrola/timingcontrolb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucftimingcontrolb.ucf -p xc3s50a-tq144-5 timingcontrolb.ngc timingcontrolb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o timingcontrolb_map.ncd timingcontrolb.ngd timingcontrolb.pcf 
+par -w -intstyle ise -ol high -t 1 timingcontrolb_map.ncd timingcontrolb.ncd timingcontrolb.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml timingcontrolb.twx timingcontrolb.ncd -o timingcontrolb.twr timingcontrolb.pcf -ucf ucftimingcontrolb.ucf 
+bitgen -intstyle ise -f timingcontrolb.ut timingcontrolb.ncd 
+xst -intstyle ise -ifn "E:/timingcontrola/timingcontrolb.xst" -ofn "E:/timingcontrola/timingcontrolb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucftimingcontrolb.ucf -p xc3s50a-tq144-5 timingcontrolb.ngc timingcontrolb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o timingcontrolb_map.ncd timingcontrolb.ngd timingcontrolb.pcf 
+par -w -intstyle ise -ol high -t 1 timingcontrolb_map.ncd timingcontrolb.ncd timingcontrolb.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml timingcontrolb.twx timingcontrolb.ncd -o timingcontrolb.twr timingcontrolb.pcf -ucf ucftimingcontrolb.ucf 
+bitgen -intstyle ise -f timingcontrolb.ut timingcontrolb.ncd 
+xst -intstyle ise -ifn "E:/timingcontrola/timingcontrolb.xst" -ofn "E:/timingcontrola/timingcontrolb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucftimingcontrolb.ucf -p xc3s50a-tq144-5 timingcontrolb.ngc timingcontrolb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o timingcontrolb_map.ncd timingcontrolb.ngd timingcontrolb.pcf 
+par -w -intstyle ise -ol high -t 1 timingcontrolb_map.ncd timingcontrolb.ncd timingcontrolb.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml timingcontrolb.twx timingcontrolb.ncd -o timingcontrolb.twr timingcontrolb.pcf -ucf ucftimingcontrolb.ucf 
+bitgen -intstyle ise -f timingcontrolb.ut timingcontrolb.ncd 
+xst -intstyle ise -ifn "E:/timingcontrola/timingcontrolb.xst" -ofn "E:/timingcontrola/timingcontrolb.syr" 
+xst -intstyle ise -ifn "E:/timingcontrola/timingcontrolb.xst" -ofn "E:/timingcontrola/timingcontrolb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucftimingcontrolb.ucf -p xc3s50a-tq144-5 timingcontrolb.ngc timingcontrolb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o timingcontrolb_map.ncd timingcontrolb.ngd timingcontrolb.pcf 
+par -w -intstyle ise -ol high -t 1 timingcontrolb_map.ncd timingcontrolb.ncd timingcontrolb.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml timingcontrolb.twx timingcontrolb.ncd -o timingcontrolb.twr timingcontrolb.pcf -ucf ucftimingcontrolb.ucf 
+bitgen -intstyle ise -f timingcontrolb.ut timingcontrolb.ncd 
+xst -intstyle ise -ifn "E:/timingcontrola/timingcontrolb.xst" -ofn "E:/timingcontrola/timingcontrolb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucftimingcontrolb.ucf -p xc3s50a-tq144-5 timingcontrolb.ngc timingcontrolb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o timingcontrolb_map.ncd timingcontrolb.ngd timingcontrolb.pcf 
+par -w -intstyle ise -ol high -t 1 timingcontrolb_map.ncd timingcontrolb.ncd timingcontrolb.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml timingcontrolb.twx timingcontrolb.ncd -o timingcontrolb.twr timingcontrolb.pcf -ucf ucftimingcontrolb.ucf 
+bitgen -intstyle ise -f timingcontrolb.ut timingcontrolb.ncd 
+xst -intstyle ise -ifn "E:/timingcontrola/timingcontrolb.xst" -ofn "E:/timingcontrola/timingcontrolb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucftimingcontrolb.ucf -p xc3s50a-tq144-5 timingcontrolb.ngc timingcontrolb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o timingcontrolb_map.ncd timingcontrolb.ngd timingcontrolb.pcf 
+par -w -intstyle ise -ol high -t 1 timingcontrolb_map.ncd timingcontrolb.ncd timingcontrolb.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml timingcontrolb.twx timingcontrolb.ncd -o timingcontrolb.twr timingcontrolb.pcf -ucf ucftimingcontrolb.ucf 
+bitgen -intstyle ise -f timingcontrolb.ut timingcontrolb.ncd 
+xst -intstyle ise -ifn "E:/timingcontrola/timingcontrolb.xst" -ofn "E:/timingcontrola/timingcontrolb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucftimingcontrolb.ucf -p xc3s50a-tq144-5 timingcontrolb.ngc timingcontrolb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o timingcontrolb_map.ncd timingcontrolb.ngd timingcontrolb.pcf 
+par -w -intstyle ise -ol high -t 1 timingcontrolb_map.ncd timingcontrolb.ncd timingcontrolb.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml timingcontrolb.twx timingcontrolb.ncd -o timingcontrolb.twr timingcontrolb.pcf -ucf ucftimingcontrolb.ucf 
+bitgen -intstyle ise -f timingcontrolb.ut timingcontrolb.ncd 
+xst -intstyle ise -ifn "E:/timingcontrola/timingcontrolb.xst" -ofn "E:/timingcontrola/timingcontrolb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucftimingcontrolb.ucf -p xc3s50a-tq144-5 timingcontrolb.ngc timingcontrolb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o timingcontrolb_map.ncd timingcontrolb.ngd timingcontrolb.pcf 
+par -w -intstyle ise -ol high -t 1 timingcontrolb_map.ncd timingcontrolb.ncd timingcontrolb.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml timingcontrolb.twx timingcontrolb.ncd -o timingcontrolb.twr timingcontrolb.pcf -ucf ucftimingcontrolb.ucf 
+bitgen -intstyle ise -f timingcontrolb.ut timingcontrolb.ncd 
+xst -intstyle ise -ifn "E:/timingcontrola/timingcontrolb.xst" -ofn "E:/timingcontrola/timingcontrolb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucftimingcontrolb.ucf -p xc3s50a-tq144-5 timingcontrolb.ngc timingcontrolb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o timingcontrolb_map.ncd timingcontrolb.ngd timingcontrolb.pcf 
+par -w -intstyle ise -ol high -t 1 timingcontrolb_map.ncd timingcontrolb.ncd timingcontrolb.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml timingcontrolb.twx timingcontrolb.ncd -o timingcontrolb.twr timingcontrolb.pcf -ucf ucftimingcontrolb.ucf 
+bitgen -intstyle ise -f timingcontrolb.ut timingcontrolb.ncd 
+xst -intstyle ise -ifn "E:/timingcontrola/timingcontrolb.xst" -ofn "E:/timingcontrola/timingcontrolb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucftimingcontrolb.ucf -p xc3s50a-tq144-5 timingcontrolb.ngc timingcontrolb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o timingcontrolb_map.ncd timingcontrolb.ngd timingcontrolb.pcf 
+par -w -intstyle ise -ol high -t 1 timingcontrolb_map.ncd timingcontrolb.ncd timingcontrolb.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml timingcontrolb.twx timingcontrolb.ncd -o timingcontrolb.twr timingcontrolb.pcf -ucf ucftimingcontrolb.ucf 
+bitgen -intstyle ise -f timingcontrolb.ut timingcontrolb.ncd 
+xst -intstyle ise -ifn "E:/timingcontrola/timingcontrolb.xst" -ofn "E:/timingcontrola/timingcontrolb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucftimingcontrolb.ucf -p xc3s50a-tq144-5 timingcontrolb.ngc timingcontrolb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o timingcontrolb_map.ncd timingcontrolb.ngd timingcontrolb.pcf 
+par -w -intstyle ise -ol high -t 1 timingcontrolb_map.ncd timingcontrolb.ncd timingcontrolb.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml timingcontrolb.twx timingcontrolb.ncd -o timingcontrolb.twr timingcontrolb.pcf -ucf ucftimingcontrolb.ucf 
+bitgen -intstyle ise -f timingcontrolb.ut timingcontrolb.ncd 
+xst -intstyle ise -ifn "E:/timingcontrola/timingcontrolb.xst" -ofn "E:/timingcontrola/timingcontrolb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucftimingcontrolb.ucf -p xc3s50a-tq144-5 timingcontrolb.ngc timingcontrolb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o timingcontrolb_map.ncd timingcontrolb.ngd timingcontrolb.pcf 
+par -w -intstyle ise -ol high -t 1 timingcontrolb_map.ncd timingcontrolb.ncd timingcontrolb.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml timingcontrolb.twx timingcontrolb.ncd -o timingcontrolb.twr timingcontrolb.pcf -ucf ucftimingcontrolb.ucf 
+bitgen -intstyle ise -f timingcontrolb.ut timingcontrolb.ncd 

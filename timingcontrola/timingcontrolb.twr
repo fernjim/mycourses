@@ -1,0 +1,132 @@
+--------------------------------------------------------------------------------
+Release 14.7 Trace  (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+
+C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\trce.exe -intstyle ise -v 3 -s 5
+-n 3 -fastpaths -xml timingcontrolb.twx timingcontrolb.ncd -o
+timingcontrolb.twr timingcontrolb.pcf -ucf ucftimingcontrolb.ucf
+
+Design file:              timingcontrolb.ncd
+Physical constraint file: timingcontrolb.pcf
+Device,package,speed:     xc3s50a,tq144,-5 (PRODUCTION 1.42 2013-10-13)
+Report level:             verbose report
+
+Environment Variable      Effect 
+--------------------      ------ 
+NONE                      No environment variables were set
+--------------------------------------------------------------------------------
+
+INFO:Timing:2698 - No timing constraints found, doing default enumeration.
+INFO:Timing:3412 - To improve timing, see the Timing Closure User Guide (UG612).
+INFO:Timing:2752 - To get complete path coverage, use the unconstrained paths 
+   option. All paths that are not constrained will be reported in the 
+   unconstrained paths section(s) of the report.
+INFO:Timing:3339 - The clock-to-out numbers in this timing report are based on 
+   a 50 Ohm transmission line loading model.  For the details of this model, 
+   and for more information on accounting for different loading conditions, 
+   please see the device datasheet.
+INFO:Timing:3390 - This architecture does not support a default System Jitter 
+   value, please add SYSTEM_JITTER constraint to the UCF to modify the Clock 
+   Uncertainty calculation.
+INFO:Timing:3389 - This architecture does not support 'Discrete Jitter' and 
+   'Phase Error' calculations, these terms will be zero in the Clock 
+   Uncertainty calculation.  Please make appropriate modification to 
+   SYSTEM_JITTER to account for the unsupported Discrete Jitter and Phase 
+   Error.
+
+
+
+Data Sheet report:
+-----------------
+All values displayed in nanoseconds (ns)
+
+Pad to Pad
+---------------+---------------+---------+
+Source Pad     |Destination Pad|  Delay  |
+---------------+---------------+---------+
+addr<0>        |led<0>         |    9.875|
+addr<0>        |led<1>         |   10.493|
+addr<0>        |led<2>         |   11.234|
+addr<0>        |led<3>         |    9.237|
+addr<0>        |led<4>         |    8.058|
+addr<0>        |led<5>         |   10.819|
+addr<1>        |led<0>         |    9.336|
+addr<1>        |led<1>         |    9.642|
+addr<1>        |led<2>         |   10.692|
+addr<1>        |led<3>         |   10.316|
+addr<1>        |led<4>         |   10.134|
+addr<1>        |led<5>         |    9.968|
+addr<2>        |led<0>         |    9.201|
+addr<2>        |led<1>         |    9.142|
+addr<2>        |led<2>         |   10.462|
+addr<2>        |led<3>         |    9.985|
+addr<2>        |led<4>         |    9.803|
+addr<2>        |led<5>         |    9.468|
+addr<3>        |led<0>         |    9.334|
+addr<3>        |led<1>         |   11.429|
+addr<3>        |led<2>         |   10.541|
+addr<3>        |led<3>         |   10.862|
+addr<3>        |led<4>         |   10.680|
+addr<3>        |led<5>         |   11.755|
+addr<4>        |led<0>         |    9.594|
+addr<4>        |led<1>         |    9.143|
+addr<4>        |led<2>         |   10.385|
+addr<4>        |led<3>         |   11.182|
+addr<4>        |led<4>         |   11.000|
+addr<4>        |led<5>         |    9.338|
+addr<5>        |led<0>         |    9.367|
+addr<5>        |led<1>         |    8.212|
+addr<5>        |led<2>         |   10.158|
+addr<5>        |led<3>         |   10.227|
+addr<5>        |led<4>         |   10.045|
+addr<5>        |led<5>         |    8.421|
+addr<6>        |led<0>         |    8.162|
+addr<6>        |led<1>         |   10.613|
+addr<6>        |led<2>         |   10.802|
+addr<6>        |led<3>         |   10.046|
+addr<6>        |led<4>         |    9.864|
+addr<6>        |led<5>         |   10.939|
+addr<7>        |led<0>         |    9.035|
+addr<7>        |led<1>         |    7.587|
+addr<7>        |led<2>         |    9.995|
+addr<7>        |led<3>         |    9.785|
+addr<7>        |led<4>         |    9.603|
+addr<7>        |led<5>         |    7.945|
+addr<8>        |led<0>         |    8.822|
+addr<8>        |led<1>         |   10.324|
+addr<8>        |led<2>         |   10.394|
+addr<8>        |led<3>         |    9.757|
+addr<8>        |led<4>         |    9.575|
+addr<8>        |led<5>         |   10.650|
+addr<9>        |led<0>         |    8.738|
+addr<9>        |led<1>         |    8.644|
+addr<9>        |led<2>         |    8.507|
+addr<9>        |led<3>         |   10.035|
+addr<9>        |led<4>         |    9.853|
+addr<9>        |led<5>         |    8.970|
+addr<10>       |led<0>         |    8.838|
+addr<10>       |led<1>         |   10.165|
+addr<10>       |led<2>         |    8.642|
+addr<10>       |led<3>         |    9.598|
+addr<10>       |led<4>         |    9.416|
+addr<10>       |led<5>         |   10.491|
+addr<11>       |led<0>         |    8.617|
+addr<11>       |led<1>         |    9.786|
+addr<11>       |led<2>         |    8.468|
+addr<11>       |led<3>         |    9.759|
+addr<11>       |led<4>         |    9.577|
+addr<11>       |led<5>         |   10.112|
+---------------+---------------+---------+
+
+
+Analysis completed Sun May 19 08:53:19 2019 
+--------------------------------------------------------------------------------
+
+Trace Settings:
+-------------------------
+Trace Settings 
+
+Peak Memory Usage: 4518 MB
+
+
+

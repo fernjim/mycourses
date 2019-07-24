@@ -1,0 +1,7 @@
+xst -intstyle ise -ifn "E:/anda/liftgate.xst" -ofn "E:/anda/liftgate.syr" 
+xst -intstyle ise -ifn "E:/anda/liftgate.xst" -ofn "E:/anda/liftgate.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfand.ucf -p xc3s50a-tq144-5 liftgate.ngc liftgate.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o liftgate_map.ncd liftgate.ngd liftgate.pcf 
+par -w -intstyle ise -ol high -t 1 liftgate_map.ncd liftgate.ncd liftgate.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml liftgate.twx liftgate.ncd -o liftgate.twr liftgate.pcf -ucf ucfand.ucf 
+bitgen -intstyle ise -f liftgate.ut liftgate.ncd 

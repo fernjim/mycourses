@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=E:\anda\liftgate.ncd
+OUTFILE=E:\anda\liftgate.bit
+FAMILY=Spartan3A and Spartan3AN
+PART=xc3s50a-5tq144
+WORKINGDIR=E:\anda
+LICENSE=WebPack
+USER_INFO=211649376_0_0_019

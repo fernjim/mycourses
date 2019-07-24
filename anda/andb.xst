@@ -1,0 +1,5 @@
+set -tmpdir "E:/anda/xst/projnav.tmp"
+set -xsthdpdir "E:/anda/xst"
+elaborate
+-ifn andb.prj
+-ifmt mixed

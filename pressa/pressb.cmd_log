@@ -1,0 +1,7 @@
+xst -intstyle ise -ifn "E:/pressa/pressb.xst" -ofn "E:/pressa/pressb.syr" 
+xst -intstyle ise -ifn "E:/pressa/pressb.xst" -ofn "E:/pressa/pressb.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucfpressb.ucf -p xc3s50a-tq144-5 pressb.ngc pressb.ngd  
+map -intstyle ise -p xc3s50a-tq144-5 -cm area -ir off -pr off -c 100 -o pressb_map.ncd pressb.ngd pressb.pcf 
+par -w -intstyle ise -ol high -t 1 pressb_map.ncd pressb.ncd pressb.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml pressb.twx pressb.ncd -o pressb.twr pressb.pcf -ucf ucfpressb.ucf 
+bitgen -intstyle ise -f pressb.ut pressb.ncd 
